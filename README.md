@@ -10,7 +10,7 @@ controller setup, ESC calibration, and survey-mission planning.
 ## Contents
 | Path | Description |
 |------|-------------|
-| `docs/01_bill_of_materials.md` | Components list (edit with your parts and weights) |
+| `docs/01_bill_of_materials.md` | Components list |
 | `docs/02_frame_build.md` | Frame assembly and layout notes |
 | `docs/03_flight_controller_setup.md` | Firmware, sensors, radio, modes, failsafes |
 | `docs/04_esc_calibration.md` | ESC calibration procedure and motor test |

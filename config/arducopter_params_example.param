@@ -1,0 +1,23 @@
+# Example ArduCopter parameters - STARTING POINT ONLY.
+# Verify each name/value against the ArduPilot docs for your firmware version and hardware.
+FRAME_CLASS,1
+FRAME_TYPE,1
+ARMING_CHECK,1
+MOT_PWM_TYPE,0
+MOT_SPIN_ARM,0.10
+MOT_SPIN_MIN,0.15
+BATT_MONITOR,4
+BATT_ARM_VOLT,14.8
+BATT_LOW_VOLT,14.0
+BATT_CRT_VOLT,13.2
+BATT_FS_LOW_ACT,2
+BATT_FS_CRT_ACT,1
+FS_THR_ENABLE,1
+FS_GCS_ENABLE,1
+RTL_ALT,3000
+WPNAV_SPEED,500
+WPNAV_ACCEL,100
+FENCE_ENABLE,1
+FENCE_ALT_MAX,100
+# Set to 3 ONLY with props removed to calibrate ESCs on next power-up:
+# ESC_CALIBRATION,3
